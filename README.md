@@ -84,14 +84,7 @@ rolex-landing-page/
 - **Testimonials**: Customer testimonials and reviews.
 - **Footer**: Informative footer with links to social media and company information.
 
-## Contributing
-
-Contributions are welcome! If you have any improvements or suggestions, feel free to open an issue or create a pull request. Please ensure your contributions align with the project's coding standards and conventions.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
+---
 ## Acknowledgements
 
 - [React](https://reactjs.org/)
