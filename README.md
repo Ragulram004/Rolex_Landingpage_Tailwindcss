@@ -1,7 +1,3 @@
-Sure! Here is the updated README file content that reflects the project structure for a React + Vite and Tailwind CSS setup for the Rolex landing page:
-
----
-
 # Rolex Landing Page
 
 This project is a landing page for Rolex, created using React.js with Vite and Tailwind CSS. The landing page features an elegant and responsive design, showcasing Rolex watches with an awesome user interface.
