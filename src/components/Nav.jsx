@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     <header className='padding-x py-4  z-20 w-full fixed bg-[#010409bb] backdrop-blur-[10px]'>
       <nav className='flex justify-center items-center max-container'>
-        <a href='/'>
+        <a href='#'>
           <img
             src={headerlogo}
             alt='logo'

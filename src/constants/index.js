@@ -91,29 +91,29 @@ export const footerLinks = [
     {
         title: "Products",
         links: [
-            { name: "Datejust", link: "/" },
-            { name: "GMT-Master II", link: "/" },
-            { name: "Day-Date", link: "/" },
-            { name: "Cosmograph Daytona", link: "/" },
-            { name: "Submariner", link: "/" },
-            { name: "Yacht-Master", link: "/" },
+            { name: "Datejust", link: "#" },
+            { name: "GMT-Master II", link: "#" },
+            { name: "Day-Date", link: "#" },
+            { name: "Cosmograph Daytona", link: "#" },
+            { name: "Submariner", link: "#" },
+            { name: "Yacht-Master", link: "#" },
         ],
     },
     {
         title: "Help",
         links: [
-            { name: "About us", link: "/" },
-            { name: "FAQs", link: "/" },
-            { name: "How it works", link: "/" },
-            { name: "Privacy policy", link: "/" },
-            { name: "Payment policy", link: "/" },
+            { name: "About us", link: "#" },
+            { name: "FAQs", link: "#" },
+            { name: "How it works", link: "#" },
+            { name: "Privacy policy", link: "#" },
+            { name: "Payment policy", link: "#" },
         ],
     },
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "customer@nike.com", link: "#" },
+            { name: "+92554862354", link: "#" },
         ],
     },
 ];
