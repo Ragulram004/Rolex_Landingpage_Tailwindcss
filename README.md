@@ -80,5 +80,18 @@ rolex-landing-page/
 - **Features Section**: Highlighting key features and craftsmanship.
 - **Testimonials**: Customer testimonials and reviews.
 - **Footer**: Informative footer with links to social media and company information.
+---
+## Acknowledgements
 
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Rolex](https://www.rolex.com/)
+
+Feel free to reach out if you have any questions or feedback!
+
+---
+
+
+Happy coding!
 
